@@ -1,0 +1,15 @@
+C:\Users\dragg\source\repos\pin\pin\bin\Debug\net6.0\pin.exe
+C:\Users\dragg\source\repos\pin\pin\bin\Debug\net6.0\pin.deps.json
+C:\Users\dragg\source\repos\pin\pin\bin\Debug\net6.0\pin.runtimeconfig.json
+C:\Users\dragg\source\repos\pin\pin\bin\Debug\net6.0\pin.dll
+C:\Users\dragg\source\repos\pin\pin\bin\Debug\net6.0\pin.pdb
+C:\Users\dragg\source\repos\pin\pin\obj\Debug\net6.0\pin.csproj.AssemblyReference.cache
+C:\Users\dragg\source\repos\pin\pin\obj\Debug\net6.0\pin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dragg\source\repos\pin\pin\obj\Debug\net6.0\pin.AssemblyInfoInputs.cache
+C:\Users\dragg\source\repos\pin\pin\obj\Debug\net6.0\pin.AssemblyInfo.cs
+C:\Users\dragg\source\repos\pin\pin\obj\Debug\net6.0\pin.csproj.CoreCompileInputs.cache
+C:\Users\dragg\source\repos\pin\pin\obj\Debug\net6.0\pin.dll
+C:\Users\dragg\source\repos\pin\pin\obj\Debug\net6.0\refint\pin.dll
+C:\Users\dragg\source\repos\pin\pin\obj\Debug\net6.0\pin.pdb
+C:\Users\dragg\source\repos\pin\pin\obj\Debug\net6.0\pin.genruntimeconfig.cache
+C:\Users\dragg\source\repos\pin\pin\obj\Debug\net6.0\ref\pin.dll
